@@ -1,0 +1,5 @@
+classes= 2
+train  = build/train.txt
+valid  = build/train.txt
+names = build/obj.names
+backup = build/backup
